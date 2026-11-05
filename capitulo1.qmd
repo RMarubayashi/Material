@@ -1,0 +1,9 @@
+---
+title: "Software R"
+---
+
+## Introdução
+
+A estatística é uma disciplina que se ocupa da coleta, análise, interpretação e apresentação de dados
+
+## Instalação do R e RStudio

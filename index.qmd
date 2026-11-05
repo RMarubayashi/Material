@@ -1,0 +1,22 @@
+---
+title: "Apresentação"
+---
+
+Bem-vindo ao material de apoio!
+
+## Sobre o Autor {.unnumbered}
+
+![](imagens/foto.jpg){style="border-radius: 50%;" width="180px"}
+
+**Rodrigo Yudi Palhaci Marubayashi**\
+Docente no Departamento de Estatística (DSTA) da Universidade Estadual de Londrina (UEL).
+
+[E-mail](mailto:marubayashi@uel.br) \| [Lattes](http://lattes.cnpq.br/9007309012680740){target="_blank"}
+
+## Links úteis {.unnumbered}
+
+[Departamento de Estatística UEL](https://www.uel.br/ceca/estatistica/){target="_blank"}.
+
+[Programa de Pós-Graduação em Matemática Aplicada](https://pos.uel.br/pgmac/){target="_blank"}.
+
+[Projeto Fisher](https://fisher.uel.br/index/){target="_blank"}.

@@ -1,0 +1,13 @@
+---
+title: "Estatística"
+---
+
+## Introdução
+
+## Estatística descritiva
+
+### Medidas de posição
+
+### Medidas de dispersão
+
+### Medidas separatrizes
