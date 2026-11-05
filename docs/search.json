@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Apresentação",
+    "section": "",
+    "text": "Sobre o Autor\nBem-vindo ao material de apoio!\nRodrigo Yudi Palhaci Marubayashi\nDocente no Departamento de Estatística (DSTA) da Universidade Estadual de Londrina (UEL).\nE-mail | Lattes",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#links-úteis",
+    "href": "index.html#links-úteis",
+    "title": "Apresentação",
+    "section": "Links úteis",
+    "text": "Links úteis\nDepartamento de Estatística UEL.\nPrograma de Pós-Graduação em Matemática Aplicada.\nProjeto Fisher.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html",
+    "href": "capitulo1.html",
+    "title": "2  Software R",
+    "section": "",
+    "text": "2.1 Introdução\nA estatística é uma disciplina que se ocupa da coleta, análise, interpretação e apresentação de dados",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#instalação-do-r-e-rstudio",
+    "href": "capitulo1.html#instalação-do-r-e-rstudio",
+    "title": "2  Software R",
+    "section": "2.2 Instalação do R e RStudio",
+    "text": "2.2 Instalação do R e RStudio",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo2.html",
+    "href": "capitulo2.html",
+    "title": "3  Estatística",
+    "section": "",
+    "text": "3.1 Introdução",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Estatística</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo2.html#estatística-descritiva",
+    "href": "capitulo2.html#estatística-descritiva",
+    "title": "3  Estatística",
+    "section": "3.2 Estatística descritiva",
+    "text": "3.2 Estatística descritiva\n\n3.2.1 Medidas de posição\n\n\n3.2.2 Medidas de dispersão\n\n\n3.2.3 Medidas separatrizes",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Estatística</span>"
+    ]
+  }
+]

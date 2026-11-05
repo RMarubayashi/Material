@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  #title: "Material de Apoio - Estatística"
+  #date: "11/05/2026"
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 2 # Mostra capítulos e seções abertas na esquerda
+  chapters:
+    - index.qmd
+    - capitulo1.qmd
+    - capitulo2.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-title: "Sumário"
+    toc-location: right
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    
+    
