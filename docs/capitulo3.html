@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>4&nbsp; capitulo3</title>
+<title>4&nbsp; Estatística descritiva</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -254,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./capitulo3.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">capitulo3</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./capitulo3.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Estatística descritiva</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -298,13 +298,37 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./capitulo3.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">capitulo3</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Estatística descritiva</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./capitulo4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">capitulo4</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Estatística Inferencial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./capitulo5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Estatística experimental</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./capitulo6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Regressão linear</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./capitulo7.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Regressão logística</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./capitulo8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Séries temporais</span></span></a>
   </div>
 </li>
     </ul>
@@ -312,8 +336,27 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sumário</h2>
+   
+  <ul>
+  <li><a href="#medidas-de-posição" id="toc-medidas-de-posição" class="nav-link active" data-scroll-target="#medidas-de-posição"><span class="header-section-number">4.1</span> Medidas de posição</a>
+  <ul>
+  <li><a href="#média" id="toc-média" class="nav-link" data-scroll-target="#média"><span class="header-section-number">4.1.1</span> Média</a></li>
+  <li><a href="#mediana" id="toc-mediana" class="nav-link" data-scroll-target="#mediana"><span class="header-section-number">4.1.2</span> Mediana</a></li>
+  <li><a href="#moda" id="toc-moda" class="nav-link" data-scroll-target="#moda"><span class="header-section-number">4.1.3</span> Moda</a></li>
+  </ul></li>
+  <li><a href="#medidas-de-dispersão" id="toc-medidas-de-dispersão" class="nav-link" data-scroll-target="#medidas-de-dispersão"><span class="header-section-number">4.2</span> Medidas de dispersão</a>
+  <ul>
+  <li><a href="#variância" id="toc-variância" class="nav-link" data-scroll-target="#variância"><span class="header-section-number">4.2.1</span> Variância</a></li>
+  <li><a href="#desvio-padrão" id="toc-desvio-padrão" class="nav-link" data-scroll-target="#desvio-padrão"><span class="header-section-number">4.2.2</span> Desvio Padrão</a></li>
+  <li><a href="#coeficiente-de-variação" id="toc-coeficiente-de-variação" class="nav-link" data-scroll-target="#coeficiente-de-variação"><span class="header-section-number">4.2.3</span> Coeficiente de Variação</a></li>
+  <li><a href="#amplitude" id="toc-amplitude" class="nav-link" data-scroll-target="#amplitude"><span class="header-section-number">4.2.4</span> Amplitude</a></li>
+  </ul></li>
+  <li><a href="#medidas-separatrizes" id="toc-medidas-separatrizes" class="nav-link" data-scroll-target="#medidas-separatrizes"><span class="header-section-number">4.3</span> Medidas separatrizes</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -321,7 +364,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">capitulo3</span></h1>
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Estatística descritiva</span></h1>
 </div>
 
 
@@ -338,8 +381,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="medidas-de-posição" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="medidas-de-posição"><span class="header-section-number">4.1</span> Medidas de posição</h2>
+<section id="média" class="level3" data-number="4.1.1">
+<h3 data-number="4.1.1" class="anchored" data-anchor-id="média"><span class="header-section-number">4.1.1</span> Média</h3>
+</section>
+<section id="mediana" class="level3" data-number="4.1.2">
+<h3 data-number="4.1.2" class="anchored" data-anchor-id="mediana"><span class="header-section-number">4.1.2</span> Mediana</h3>
+</section>
+<section id="moda" class="level3" data-number="4.1.3">
+<h3 data-number="4.1.3" class="anchored" data-anchor-id="moda"><span class="header-section-number">4.1.3</span> Moda</h3>
+</section>
+</section>
+<section id="medidas-de-dispersão" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="medidas-de-dispersão"><span class="header-section-number">4.2</span> Medidas de dispersão</h2>
+<section id="variância" class="level3" data-number="4.2.1">
+<h3 data-number="4.2.1" class="anchored" data-anchor-id="variância"><span class="header-section-number">4.2.1</span> Variância</h3>
+</section>
+<section id="desvio-padrão" class="level3" data-number="4.2.2">
+<h3 data-number="4.2.2" class="anchored" data-anchor-id="desvio-padrão"><span class="header-section-number">4.2.2</span> Desvio Padrão</h3>
+</section>
+<section id="coeficiente-de-variação" class="level3" data-number="4.2.3">
+<h3 data-number="4.2.3" class="anchored" data-anchor-id="coeficiente-de-variação"><span class="header-section-number">4.2.3</span> Coeficiente de Variação</h3>
+</section>
+<section id="amplitude" class="level3" data-number="4.2.4">
+<h3 data-number="4.2.4" class="anchored" data-anchor-id="amplitude"><span class="header-section-number">4.2.4</span> Amplitude</h3>
+</section>
+</section>
+<section id="medidas-separatrizes" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="medidas-separatrizes"><span class="header-section-number">4.3</span> Medidas separatrizes</h2>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -762,8 +835,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./capitulo4.html" class="pagination-link" aria-label="capitulo4">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">capitulo4</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./capitulo4.html" class="pagination-link" aria-label="Estatística Inferencial">
+        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Estatística Inferencial</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

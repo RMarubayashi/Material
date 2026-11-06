@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Apresentação",
     "section": "",
-    "text": "Sobre o autor\nBem-vindo ao material de apoio!\nRodrigo Yudi Palhaci Marubayashi\nEngenheiro Agrônomo, Especialista em Estatística e Doutor em Agronomia\nDocente do Departamento de Estatística (DSTA-UEL)\nMembro Permanente do Programa de Pós-Graduação em Matemática Aplicada e Computacional (PPGMAC-UEL)\nUniversidade Estadual de Londrina (UEL)\nE-mail | Lattes",
+    "text": "Sobre o autor\nBem-vindo ao material de apoio!\nRodrigo Yudi Palhaci Marubayashi\nEngenheiro Agrônomo, Especialista em Estatística e Doutor em Agronomia\nDocente do Departamento de Estatística (DSTA-UEL)\nMembro Permanente do Programa de Pós-Graduação em Matemática Aplicada e Computacional (PGMAC-UEL)\nConsultor Estatística Aplicada\nE-mail | LinkedIn | Lattes",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
     ]
@@ -103,10 +103,240 @@
     "objectID": "capitulo1.html#pacotes-r-recomendados",
     "href": "capitulo1.html#pacotes-r-recomendados",
     "title": "2  Software R",
-    "section": "2.5 Pacotes R recomendados",
-    "text": "2.5 Pacotes R recomendados\nAgroR\nO pacote realiza análises em diferentes delineamentos experimentais, como inteiramente casualizados, blocos ao acaso e quadrados latinos, em esquema fatorial duplo e triplo, em esquema de parcelas subdivididas, análise conjunta de experimentos, análise de regressão linear, teste para duas amostras, testes não paramétricos.\n\nAgroTech\n\nAgroReg\nO pacote realiza análise de regressão linear e não linear. O pacote inclui modelos polinomiais, exponenciais, gaussianos, logísticos, logarítmicos, segmentados, não paramétricos, entre outros.\n\nseedreg\nO pacote é voltado para área de sementes, inicialmente com o próposito de realizar análise de regressão usando modelos comuns em estudos de temperatura de sementes e outros, com potencial para uso na estimativa da temperatura ideal e cardinal para a germinação de sementes de plantas.",
+    "section": "2.6 Pacotes R recomendados",
+    "text": "2.6 Pacotes R recomendados\nAgroR\nO pacote realiza análises em diferentes delineamentos experimentais, como inteiramente casualizados, blocos ao acaso e quadrados latinos, em esquema fatorial duplo e triplo, em esquema de parcelas subdivididas, análise conjunta de experimentos, análise de regressão linear, teste para duas amostras, testes não paramétricos.\n\nAgroTech\n\nAgroReg\nO pacote realiza análise de regressão linear e não linear. O pacote inclui modelos polinomiais, exponenciais, gaussianos, logísticos, logarítmicos, segmentados, não paramétricos, entre outros.\n\nseedreg\nO pacote é voltado para área de sementes, inicialmente com o próposito de realizar análise de regressão usando modelos comuns em estudos de temperatura de sementes e outros, com potencial para uso na estimativa da temperatura ideal e cardinal para a germinação de sementes de plantas.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#gráficos",
+    "href": "capitulo1.html#gráficos",
+    "title": "2  Software R",
+    "section": "2.5 Gráficos",
+    "text": "2.5 Gráficos",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo2.html#tipos-de-dados",
+    "href": "capitulo2.html#tipos-de-dados",
+    "title": "3  Estatística",
+    "section": "3.2 Tipos de dados",
+    "text": "3.2 Tipos de dados",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Estatística</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo3.html",
+    "href": "capitulo3.html",
+    "title": "4  Estatística descritiva",
+    "section": "",
+    "text": "4.1 Medidas de posição",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estatística descritiva</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo3.html#medidas-de-posição",
+    "href": "capitulo3.html#medidas-de-posição",
+    "title": "4  Estatística descritiva",
+    "section": "",
+    "text": "4.1.1 Média\n\n\n4.1.2 Mediana\n\n\n4.1.3 Moda",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estatística descritiva</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo3.html#medidas-de-dispersão",
+    "href": "capitulo3.html#medidas-de-dispersão",
+    "title": "4  Estatística descritiva",
+    "section": "4.2 Medidas de dispersão",
+    "text": "4.2 Medidas de dispersão\n\n4.2.1 Variância\n\n\n4.2.2 Desvio Padrão\n\n\n4.2.3 Coeficiente de Variação\n\n\n4.2.4 Amplitude",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estatística descritiva</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo3.html#medidas-separatrizes",
+    "href": "capitulo3.html#medidas-separatrizes",
+    "title": "4  Estatística descritiva",
+    "section": "4.3 Medidas separatrizes",
+    "text": "4.3 Medidas separatrizes",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estatística descritiva</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo4.html",
+    "href": "capitulo4.html",
+    "title": "5  Estatística Inferencial",
+    "section": "",
+    "text": "5.1 Probabilidade",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Estatística Inferencial</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo4.html#variáveis-aleatórias",
+    "href": "capitulo4.html#variáveis-aleatórias",
+    "title": "5  Estatística Inferencial",
+    "section": "5.2 Variáveis aleatórias",
+    "text": "5.2 Variáveis aleatórias",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Estatística Inferencial</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo4.html#intervalo-de-confiança",
+    "href": "capitulo4.html#intervalo-de-confiança",
+    "title": "5  Estatística Inferencial",
+    "section": "5.3 Intervalo de confiança",
+    "text": "5.3 Intervalo de confiança",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Estatística Inferencial</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo4.html#testes-de-hipóteses",
+    "href": "capitulo4.html#testes-de-hipóteses",
+    "title": "5  Estatística Inferencial",
+    "section": "5.4 Testes de hipóteses",
+    "text": "5.4 Testes de hipóteses",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Estatística Inferencial</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html",
+    "href": "capitulo5.html",
+    "title": "6  Estatística experimental",
+    "section": "",
+    "text": "6.1 Planejamento experimental",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#dic",
+    "href": "capitulo5.html#dic",
+    "title": "6  Estatística experimental",
+    "section": "6.2 DIC",
+    "text": "6.2 DIC",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#tcm",
+    "href": "capitulo5.html#tcm",
+    "title": "6  Estatística experimental",
+    "section": "6.3 TCM",
+    "text": "6.3 TCM",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#dbc",
+    "href": "capitulo5.html#dbc",
+    "title": "6  Estatística experimental",
+    "section": "6.4 DBC",
+    "text": "6.4 DBC",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#dql",
+    "href": "capitulo5.html#dql",
+    "title": "6  Estatística experimental",
+    "section": "6.5 DQL",
+    "text": "6.5 DQL",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#esquema-fatorial",
+    "href": "capitulo5.html#esquema-fatorial",
+    "title": "6  Estatística experimental",
+    "section": "6.6 Esquema fatorial",
+    "text": "6.6 Esquema fatorial",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#esquema-parcela-subdividida",
+    "href": "capitulo5.html#esquema-parcela-subdividida",
+    "title": "6  Estatística experimental",
+    "section": "6.7 Esquema parcela subdividida",
+    "text": "6.7 Esquema parcela subdividida",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#transformação-de-dados",
+    "href": "capitulo5.html#transformação-de-dados",
+    "title": "6  Estatística experimental",
+    "section": "6.8 Transformação de dados",
+    "text": "6.8 Transformação de dados",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#contrastes-ortogonais",
+    "href": "capitulo5.html#contrastes-ortogonais",
+    "title": "6  Estatística experimental",
+    "section": "6.9 Contrastes ortogonais",
+    "text": "6.9 Contrastes ortogonais",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo5.html#análise-conjunta",
+    "href": "capitulo5.html#análise-conjunta",
+    "title": "6  Estatística experimental",
+    "section": "6.10 Análise conjunta",
+    "text": "6.10 Análise conjunta",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estatística experimental</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo6.html",
+    "href": "capitulo6.html",
+    "title": "7  Regressão linear",
+    "section": "",
+    "text": "7.1 Correlação",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regressão linear</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo6.html#regressão-linear-simples",
+    "href": "capitulo6.html#regressão-linear-simples",
+    "title": "7  Regressão linear",
+    "section": "7.2 Regressão linear simples",
+    "text": "7.2 Regressão linear simples",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regressão linear</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo6.html#regressão-linear-múltipla",
+    "href": "capitulo6.html#regressão-linear-múltipla",
+    "title": "7  Regressão linear",
+    "section": "7.3 Regressão linear múltipla",
+    "text": "7.3 Regressão linear múltipla",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regressão linear</span>"
     ]
   }
 ]
