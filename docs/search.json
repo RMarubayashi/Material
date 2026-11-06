@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Apresentação",
+    "section": "",
+    "text": "Sobre o autor\nBem-vindo ao material de apoio!\nRodrigo Yudi Palhaci Marubayashi\nEngenheiro Agrônomo, Especialista em Estatística e Doutor em Agronomia\nDocente do Departamento de Estatística (DSTA-UEL)\nMembro Permanente do Programa de Pós-Graduação em Matemática Aplicada e Computacional (PPGMAC-UEL)\nUniversidade Estadual de Londrina (UEL)\nE-mail | Lattes",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#links-úteis",
+    "href": "index.html#links-úteis",
+    "title": "Apresentação",
+    "section": "Links úteis",
+    "text": "Links úteis\nDepartamento de Estatística UEL\nPrograma de Pós-Graduação em Matemática Aplicada e Computacional\nProjeto Fisher",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html",
+    "href": "capitulo1.html",
+    "title": "2  Software R",
+    "section": "",
+    "text": "2.1 Introdução",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#instalação-do-r-e-rstudio",
+    "href": "capitulo1.html#instalação-do-r-e-rstudio",
+    "title": "2  Software R",
+    "section": "2.4 Instalação do R e RStudio",
+    "text": "2.4 Instalação do R e RStudio\nR\nRStudio",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo2.html",
+    "href": "capitulo2.html",
+    "title": "3  Estatística",
+    "section": "",
+    "text": "3.1 Introdução",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Estatística</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo2.html#estatística-descritiva",
+    "href": "capitulo2.html#estatística-descritiva",
+    "title": "3  Estatística",
+    "section": "3.2 Estatística descritiva",
+    "text": "3.2 Estatística descritiva\n\n3.2.1 Medidas de posição\n\n3.2.1.1 Média\n\n\n3.2.1.2 Mediana\n\n\n3.2.1.3 Moda\n\n\n\n3.2.2 Medidas de dispersão\n\n3.2.2.1 Variância\n\n\n3.2.2.2 Desvio Padrão\n\n\n3.2.2.3 Coeficiente de Variação\n\n\n3.2.2.4 Amplitude\n\n\n\n3.2.3 Medidas separatrizes",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Estatística</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#pacotes-r-recomendados",
+    "href": "index.html#pacotes-r-recomendados",
+    "title": "Apresentação",
+    "section": "Pacotes R recomendados",
+    "text": "Pacotes R recomendados\nAgroR\nO pacote realiza análises em diferentes delineamentos experimentais, como inteiramente casualizados, blocos ao acaso e quadrados latinos, em esquema fatorial duplo e triplo, em esquema de parcelas subdivididas, análise conjunta de experimentos, análise de regressão linear, teste para duas amostras, testes não paramétricos.\n\nAgroTech\n\nAgroReg\nO pacote realiza análise de regressão linear e não linear. O pacote inclui modelos polinomiais, exponenciais, gaussianos, logísticos, logarítmicos, segmentados, não paramétricos, entre outros.\n\nseedreg\nO pacote é voltado para área de sementes, inicialmente com o próposito de realizar análise de regressão usando modelos comuns em estudos de temperatura de sementes e outros, com potencial para uso na estimativa da temperatura ideal e cardinal para a germinação de sementes de plantas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#pacotes-r",
+    "href": "index.html#pacotes-r",
+    "title": "Apresentação",
+    "section": "Pacotes R",
+    "text": "Pacotes R\nAgroR\nAgroReg\nAgroTech",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Apresentação</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#o-que-é-o-r",
+    "href": "capitulo1.html#o-que-é-o-r",
+    "title": "2  Software R",
+    "section": "2.2 O que é o R?",
+    "text": "2.2 O que é o R?\nR é um ambiente computacional e uma linguagem de programação especializada em manipulação, análise e visualização gráfica de dados. Na atualidade é considerado o melhor ambiente computacional para essa finalidade.\nFoi criado originalmente por Ross Ihaka e por Robert Gentleman no departamento de Estatística da Universidade de Auckland, Nova Zelândia. Posteriormente, foi desenvolvido pelo esforço colaborativo de pessoas em vários locais do mundo.\nO nome R provém em parte das iniciais dos criadores (Ross Ihaka e Robert Gentleman) e também de um jogo figurado com a linguagem S (da Bell Laboratories, antiga AT&T).\nR é um ambiente e uma linguagem de programação similar ao S, contudo, é uma implementação distinta do S. Muitos códigos escritos para o S podem ser executados inalterados no R e vice-versa.\nR é altamente expansível com o uso dos pacotes. Os pacotes são bibliotecas com dados e funções para diferentes áreas do conhecimento relacionado a estatística e áreas afins.\nUm conjunto básico de pacotes vem embutido na instalação do R, com muito outros disponíveis na rede de distribuição do R (em inglês CRAN).\nA linguagem R é largamente usada entre estatísticos e analistas de dados para desenvolver software de estatística e análise de dados. Pesquisas e levantamentos com profissionais da área mostram que a popularidade do R aumentou substancialmente nos últimos anos.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#por-que-usar-o-r",
+    "href": "capitulo1.html#por-que-usar-o-r",
+    "title": "2  Software R",
+    "section": "2.3 Por que usar o R?",
+    "text": "2.3 Por que usar o R?\n\nSoftware gratuito com código aberto com uma linguagem acessível;\nExpansão exponencial entre pesquisadores, engenheiros e estatísticos;\nSe reinventa constantemente através de novas aplicações (aproximadamente 20.631 pacotes - atualizado em 05/11/2026);\nCobertura inigualável, tecnologia de ponta;\nTotalmente flexível, permitindo desenvolver facilmente funções e pacotes para facilitar o trabalho;\nCapacidade gráfica;\nDisponível para diferentes plataformas: Windows, Linux e Mac.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  },
+  {
+    "objectID": "capitulo1.html#pacotes-r-recomendados",
+    "href": "capitulo1.html#pacotes-r-recomendados",
+    "title": "2  Software R",
+    "section": "2.5 Pacotes R recomendados",
+    "text": "2.5 Pacotes R recomendados\nAgroR\nO pacote realiza análises em diferentes delineamentos experimentais, como inteiramente casualizados, blocos ao acaso e quadrados latinos, em esquema fatorial duplo e triplo, em esquema de parcelas subdivididas, análise conjunta de experimentos, análise de regressão linear, teste para duas amostras, testes não paramétricos.\n\nAgroTech\n\nAgroReg\nO pacote realiza análise de regressão linear e não linear. O pacote inclui modelos polinomiais, exponenciais, gaussianos, logísticos, logarítmicos, segmentados, não paramétricos, entre outros.\n\nseedreg\nO pacote é voltado para área de sementes, inicialmente com o próposito de realizar análise de regressão usando modelos comuns em estudos de temperatura de sementes e outros, com potencial para uso na estimativa da temperatura ideal e cardinal para a germinação de sementes de plantas.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Software R</span>"
+    ]
+  }
+]
